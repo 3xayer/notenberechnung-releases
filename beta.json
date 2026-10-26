@@ -1,15 +1,15 @@
 {
-  "version": "0.3.1",
-  "notes": "Erste ausgelieferte Version mit Auto-Update (0.3.0 wurde nicht veröffentlicht).",
-  "pub_date": "2026-10-26T15:17:53.344Z",
+  "version": "0.4.0",
+  "notes": "Schutz für die Arbeit auf zwei Geräten (OneDrive), Klassen nach Fächern gruppiert, alte Texteinträge als Noten. Enthält die nie veröffentlichte 0.3.2.",
+  "pub_date": "2026-10-26T16:14:56.506Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUV1V3bUxWZnVUenNEOXdhcDFyenM5WFFqUWhkRUtSNU9VZC9MYzlqVDJFY2FVVVJGN1VWZHVQaWM1Z3VvWDlxQW16bWtCTG5DTUdLLzg1bTlFQmRwS0ZLMVJUbC9WVmdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDI3MTAxCWZpbGU6Tm90ZW5iZXJlY2hudW5nLmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMQppR21ndnlmZDNsYnFSU3hacktZd1ByaTdtc3BKem0vayt0T0JSQlRpRXEvclBrZHlpQU5WbWVGVVBBdmxsRFE2K2sxK3p1Q1lJTmR3VjNtb3hPRFpDZz09Cg==",
-      "url": "https://api.github.com/repos/3xayer/notenberechnung-releases/releases/assets/678548265"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUV1V3bUxWZnVUemsvem12VzNhLzg4aUl5ZitHRU8rRW1QM2VMekhhWTczZVZyWXVVZnBkU2tsakUzdUs3b0FDWWZ3T3MwcC9vZjUzVERhWDd3VmVEVjVJdkdUMW5JNndVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDMwNTczCWZpbGU6Tm90ZW5iZXJlY2hudW5nLmFwcC50YXIuZ3oJdmVyc2lvbjowLjQuMAoyYzkwUFh0VGQzT080OW13aktTMW9Ed2FuNndRRW9LVGVxdk1JZ1Jydm1Mc1lpVUhJdDdUVm5RdkdhNkxrNTlTZStzNUdYQkVzN3lRZnVUOStQVHhCUT09Cg==",
+      "url": "https://api.github.com/repos/3xayer/notenberechnung-releases/releases/assets/678710498"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUV1V3bUxWZnVUenFxc1ROdWpHYW14dUhyTlBGcVVqakN2NTAxMFlyV0NvSWNERTl0UmkvLy9sWU5DN1BHQ1hDR3J3WWxmWXh5YmNxOVIrTnhoeVhqVDc1ZFFtVWNBQmd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDI3Nzc1CWZpbGU6Tm90ZW5iZXJlY2hudW5nXzAuMy4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMQpPeTFHWGJDM2hCNzFLZm5yT2tkYUNtV0pwOWhnVDRhbXdOSHZ6UWV5cjEyTE5LUW9kS0pwRThjL2wybE1Pb3czTGF6ZlUyVjUwcGNzWlp2YnZsUkJEUT09Cg==",
-      "url": "https://api.github.com/repos/3xayer/notenberechnung-releases/releases/assets/678548266"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUV1V3bUxWZnVUenAyYjBDQjZ6SWpNRGdNU0tpLzliZTkwRTA4T1I0VmwzNEUvSWpseC8xcm9meTlTb1lpcTFnV0F3TlQrU2g2UlBpRVMxRkZJTk94RlNvU3VRL2xrMWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDMxMjE2CWZpbGU6Tm90ZW5iZXJlY2hudW5nXzAuNC4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjQuMAovNU5vNWx2SkpOM2s3QTJhR3VtenV0TnF0RzFhRmhKckhiVDNWNHJ0NFlNN05KSi9LR0kvWUdrSlRZOXhraXhnYTlXbE0rU1RoNU9BRTlYR21pVkFCUT09Cg==",
+      "url": "https://api.github.com/repos/3xayer/notenberechnung-releases/releases/assets/678710503"
     }
   }
 }
