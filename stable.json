@@ -1,11 +1,11 @@
 {
-  "version": "0.7.1",
-  "notes": "Suche in der Hilfe, leere Schülerzeilen mit einem Klick löschen.",
-  "pub_date": "2026-10-27T16:13:12.487Z",
+  "version": "0.7.2",
+  "notes": "Klassenschnitte im Punkte-System mit Nachkommastellen, Neuigkeiten für 0.7.1.",
+  "pub_date": "2026-10-27T16:28:13.782Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUV1V3bUxWZnVUemp6T3J6cVhKa0NHUWhBcjI2dUNTVFdGbTQ5ZjRMRk9sSDRhMHlwTXRjekM4cDArbnc1QzZpK0VhR21qUjRuSjVTUlJ0R3FHQVA5bDMwYmNEWHRFbkE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTE3NTU4CWZpbGU6Tm90ZW5iZXJlY2hudW5nLmFwcC50YXIuZ3oJdmVyc2lvbjowLjcuMQp2Um53UVdUT21FcU82ZU1STUgwT1ErVXFGK3I4K3JiVWdnbnhhSzRRSEV1dHJhdzZzcjFwaEhPUFpmUVhvZnlRMU40Z05rMDBDay9mL3NYVDFnKzlEdz09Cg==",
-      "url": "https://api.github.com/repos/3xayer/notenberechnung-releases/releases/assets/682129122"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUV1V3bUxWZnVUenNFeGw2VEU0Ulc5M1FlZXBVY3Y5Z0pDT0l1UythNENtK3RxcXRVV1UyRWpOMkdtV0tyTkJMUUNXeEcxckMvQzVIVGNad290R284NmRuMjdQT3hrY1FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTE4NDU4CWZpbGU6Tm90ZW5iZXJlY2hudW5nLmFwcC50YXIuZ3oJdmVyc2lvbjowLjcuMgo0N3RHdFp1VWZUSXNqaDhGWWpLbTExYTlYWEJPbEtXT1FTdXdEbkpVelNMZER4dlRWVFpsY2JCRjlxWDBUU1RqR3dYT2R6R0pXeSt6UkhFVU9kMHFCUT09Cg==",
+      "url": "https://api.github.com/repos/3xayer/notenberechnung-releases/releases/assets/682173002"
     }
   }
 }
