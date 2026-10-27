@@ -1,15 +1,11 @@
 {
-  "version": "0.7.0",
-  "notes": "Stärkerer Passwortschutz mit Umstellung beim ersten Öffnen, Mindestlänge für Passwörter, Fehler melden aus der App, einfachere Bedienung, Kommazahlen mit Komma (umschaltbar).",
-  "pub_date": "2026-10-27T15:23:24.683Z",
+  "version": "0.7.1",
+  "notes": "Suche in der Hilfe, leere Schülerzeilen mit einem Klick löschen.",
+  "pub_date": "2026-10-27T16:13:12.487Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUV1V3bUxWZnVUemx6eWdmeXNiSzdkTWZybnQ5L2ltR2Q5cVlHcndxZ0Q5QkcvRG1HbXVoWGR2QytoeHd3b0ZWMU1yOFJwaEVWeWg1ZEdSWXhkOTZSdThGL0JINko1MkFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTEzODQyCWZpbGU6Tm90ZW5iZXJlY2hudW5nLmFwcC50YXIuZ3oJdmVyc2lvbjowLjcuMApDTCtKd2xUa1pXb1RITllzYlVWZ0cxVDhiRjJkOGx5Z3JxOGpQc2NDQlZNVitRb29RZG5NeXYxdEtTOUpKV1owRjYrVTVkSFBIZ1g5V1pJSzdJMTdCdz09Cg==",
-      "url": "https://api.github.com/repos/3xayer/notenberechnung-releases/releases/assets/681989842"
-    },
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUV1V3bUxWZnVUenFiZlVjM3JVKzhsL25Nb2pXaFVnQUZZL2RNaXh1ZWZIYnVQY2lUU3hDSVVUT284dThEWUJSSW1jeDIzM2pqRDZWbG9IYWRiZVg1alR1Q1VoVUJ6Q0FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTE0NTA2CWZpbGU6Tm90ZW5iZXJlY2hudW5nXzAuNy4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjcuMApRSDlVQUVTUE8zRHQwdnBwYjBhWEU4d1N5aE90c1c0aER4alhxdFJMTVdUbEViNENaRnBPbEZtbkJZazhVSkNtL3laRGNLVmpxbkpDci8rZzVDTTNBZz09Cg==",
-      "url": "https://api.github.com/repos/3xayer/notenberechnung-releases/releases/assets/681989841"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUV1V3bUxWZnVUemp6T3J6cVhKa0NHUWhBcjI2dUNTVFdGbTQ5ZjRMRk9sSDRhMHlwTXRjekM4cDArbnc1QzZpK0VhR21qUjRuSjVTUlJ0R3FHQVA5bDMwYmNEWHRFbkE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTE3NTU4CWZpbGU6Tm90ZW5iZXJlY2hudW5nLmFwcC50YXIuZ3oJdmVyc2lvbjowLjcuMQp2Um53UVdUT21FcU82ZU1STUgwT1ErVXFGK3I4K3JiVWdnbnhhSzRRSEV1dHJhdzZzcjFwaEhPUFpmUVhvZnlRMU40Z05rMDBDay9mL3NYVDFnKzlEdz09Cg==",
+      "url": "https://api.github.com/repos/3xayer/notenberechnung-releases/releases/assets/682129122"
     }
   }
 }
