@@ -1,15 +1,15 @@
 {
-  "version": "0.6.1",
-  "notes": "Ruhigere Farben für knappe Zeugnisnoten, aufgeräumte Einstellungen mit Erklärungen beim Drüberfahren, höchstens 6 Kürzel, kompaktere Kopfzeile, Korrekturen aus einer Code-Prüfung.",
-  "pub_date": "2026-10-27T10:06:17.038Z",
+  "version": "0.7.0",
+  "notes": "Stärkerer Passwortschutz mit Umstellung beim ersten Öffnen, Mindestlänge für Passwörter, Fehler melden aus der App, einfachere Bedienung, Kommazahlen mit Komma (umschaltbar).",
+  "pub_date": "2026-10-27T15:23:24.683Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUV1V3bUxWZnVUenNndXVIM2xWYUJPblg1RWZHOHZKY05MdzBFUmVsRUc0REtscHFXNWlNUWIwNE9jZTJDUVo0WXNFdmM2R0QwSGNPbDlFS2RKaG83YkhnOCtqQWNINndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDk0ODIzCWZpbGU6Tm90ZW5iZXJlY2hudW5nLmFwcC50YXIuZ3oJdmVyc2lvbjowLjYuMQpOMTNJY0tqQWlwTUhaL05GMmRyMnZ4bTl1Y0YwbVZ2eUFXWW1FMllOTGVjZ1VYampaZVJvOE44N2hjb1ZKT29JVDF3ZUtGM1lSYlFqZFphQzVxaHRCZz09Cg==",
-      "url": "https://api.github.com/repos/3xayer/notenberechnung-releases/releases/assets/681189726"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUV1V3bUxWZnVUemx6eWdmeXNiSzdkTWZybnQ5L2ltR2Q5cVlHcndxZ0Q5QkcvRG1HbXVoWGR2QytoeHd3b0ZWMU1yOFJwaEVWeWg1ZEdSWXhkOTZSdThGL0JINko1MkFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTEzODQyCWZpbGU6Tm90ZW5iZXJlY2hudW5nLmFwcC50YXIuZ3oJdmVyc2lvbjowLjcuMApDTCtKd2xUa1pXb1RITllzYlVWZ0cxVDhiRjJkOGx5Z3JxOGpQc2NDQlZNVitRb29RZG5NeXYxdEtTOUpKV1owRjYrVTVkSFBIZ1g5V1pJSzdJMTdCdz09Cg==",
+      "url": "https://api.github.com/repos/3xayer/notenberechnung-releases/releases/assets/681989842"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUV1V3bUxWZnVUemgrU2prN3hrOGNrR1NPK3Bha0ZBc0pHVmtoanFXc3BnSGltZGN1VFZocGdwdWltVEo3M1RQYk00Ti91WFlHRWF2cURKaHlwSVNoVHZpZXMrOGZqVFFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDk1NDg2CWZpbGU6Tm90ZW5iZXJlY2hudW5nXzAuNi4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjYuMQpNSzFnejNGeHhVcUpGY2ZUdU95ZytHYmpwaEYrcWRaa0twVFYzNjhXYVRuWlI4b1VIZkQrZXVCc2QyUVBJbldldHlwUUpaRDRaWHBJeXFrMEJRS2VCZz09Cg==",
-      "url": "https://api.github.com/repos/3xayer/notenberechnung-releases/releases/assets/681189725"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUV1V3bUxWZnVUenFiZlVjM3JVKzhsL25Nb2pXaFVnQUZZL2RNaXh1ZWZIYnVQY2lUU3hDSVVUT284dThEWUJSSW1jeDIzM2pqRDZWbG9IYWRiZVg1alR1Q1VoVUJ6Q0FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTE0NTA2CWZpbGU6Tm90ZW5iZXJlY2hudW5nXzAuNy4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjcuMApRSDlVQUVTUE8zRHQwdnBwYjBhWEU4d1N5aE90c1c0aER4alhxdFJMTVdUbEViNENaRnBPbEZtbkJZazhVSkNtL3laRGNLVmpxbkpDci8rZzVDTTNBZz09Cg==",
+      "url": "https://api.github.com/repos/3xayer/notenberechnung-releases/releases/assets/681989841"
     }
   }
 }
