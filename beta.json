@@ -1,15 +1,15 @@
 {
-  "version": "0.8.0",
-  "notes": "Kursstufe (K1 und K2 in einer Klasse, vier Halbjahre), Halbjahre einklappbar, einheitliche und schnellere Hinweise.",
-  "pub_date": "2026-10-28T17:52:05.831Z",
+  "version": "0.8.1",
+  "notes": "Kürzere Hinweise zu Unterkursen und Gefährdung.",
+  "pub_date": "2026-10-29T08:00:14.244Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUV1V3bUxWZnVUenEzS3pqQWU4RUdtTWF0RldYODBvTUwvMzJ4VWxZKzlXVE5sVVUzdU9TWTdPK2JENTVFeFVXVC9kNms0SVE1ZXV5dzJmeHZCbXd5SktadlFKa2JZRUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjA5MTY3CWZpbGU6Tm90ZW5iZXJlY2hudW5nLmFwcC50YXIuZ3oJdmVyc2lvbjowLjguMAoxTnVQKzBSWnFRaHFZRUMrakJTTHlHdEN2T1ViZDUrd2gyVkRhcTRrWktTNVVCcXBneVFBT1Z5cnBEMFRmRk5DTUNkMzVIdCtJZC94dk5wVWc1VEVCQT09Cg==",
-      "url": "https://api.github.com/repos/3xayer/notenberechnung-releases/releases/assets/685842474"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUV1V3bUxWZnVUem5zTGtRWG9Ya3NaZFFSRWFOT2tDbFhaTDNrMWpqV3BCN0U2bVU0WnJVL204bGFFMGlWY2ZGZmFScXA4bWIwblpKeU5ISW9IWGZoSWZaRnN4bVlnVWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjYwMTkzCWZpbGU6Tm90ZW5iZXJlY2hudW5nLmFwcC50YXIuZ3oJdmVyc2lvbjowLjguMQo4NEFYYjRJd3lUMjV5Q3ptdzQ1WW1hQStwSU04NjBqVGpIbUFVd2ZRc1ZkM3prWXRGUmJhUG0wVHg2UXM1YUpzMnUrbml4NVJ6WXNNbkNXWmxLdEVBQT09Cg==",
+      "url": "https://api.github.com/repos/3xayer/notenberechnung-releases/releases/assets/687806891"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUV1V3bUxWZnVUenNXdUNGQlN1bmJ6UG5qQ2ZkTHRybkRDUTREOGlEZHprOUtna2l0dXlrWHJHb2lzY09lNmZ0Vk9PcjJYcHorQjkxWGlDaXZ6VXc4M01MU3lDc1c4VGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjA5ODI3CWZpbGU6Tm90ZW5iZXJlY2hudW5nXzAuOC4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjguMAp6aXJqRExWdUxBb0JDdVRkQ0k2aUNxYzNvQWNPSDJkVCtJTmpGWUV4YWJLTEZRd2NEWGljSUU4cnJlVGp2aFNyMVVsTjBEY3RydVpNQ2I4alBMMHVBQT09Cg==",
-      "url": "https://api.github.com/repos/3xayer/notenberechnung-releases/releases/assets/685842479"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUV1V3bUxWZnVUenNLNmlxUHNmS1Z5TEJCcXAxNHdacUtrRlJ4YTE2ZXhZYTA5N3lEM21lRGorOVlNakFadGlyVDNTL3dXZ2l5WHNtRE9ZSFhnVlJkRVFLbFFxYVYwcVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjYwNzA5CWZpbGU6Tm90ZW5iZXJlY2hudW5nXzAuOC4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjguMQpQOGJ3SzFVbURjQmwwWjc5UUx3cEUwVUE3R0dPV1FKUVlXWkUzam0va0xzYkJDRjVNRG5TOTUyZWlNK0JjeVVMRC9CK1NraVd1U1IvYlJMK2puRjlEZz09Cg==",
+      "url": "https://api.github.com/repos/3xayer/notenberechnung-releases/releases/assets/687806894"
     }
   }
 }
