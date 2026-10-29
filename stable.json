@@ -1,11 +1,15 @@
 {
-  "version": "0.7.2",
-  "notes": "Klassenschnitte im Punkte-System mit Nachkommastellen, Neuigkeiten für 0.7.1.",
-  "pub_date": "2026-10-27T16:28:13.782Z",
+  "version": "0.8.1",
+  "notes": "Kürzere Hinweise zu Unterkursen und Gefährdung.",
+  "pub_date": "2026-10-29T08:00:14.244Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUV1V3bUxWZnVUenNFeGw2VEU0Ulc5M1FlZXBVY3Y5Z0pDT0l1UythNENtK3RxcXRVV1UyRWpOMkdtV0tyTkJMUUNXeEcxckMvQzVIVGNad290R284NmRuMjdQT3hrY1FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTE4NDU4CWZpbGU6Tm90ZW5iZXJlY2hudW5nLmFwcC50YXIuZ3oJdmVyc2lvbjowLjcuMgo0N3RHdFp1VWZUSXNqaDhGWWpLbTExYTlYWEJPbEtXT1FTdXdEbkpVelNMZER4dlRWVFpsY2JCRjlxWDBUU1RqR3dYT2R6R0pXeSt6UkhFVU9kMHFCUT09Cg==",
-      "url": "https://api.github.com/repos/3xayer/notenberechnung-releases/releases/assets/682173002"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUV1V3bUxWZnVUem5zTGtRWG9Ya3NaZFFSRWFOT2tDbFhaTDNrMWpqV3BCN0U2bVU0WnJVL204bGFFMGlWY2ZGZmFScXA4bWIwblpKeU5ISW9IWGZoSWZaRnN4bVlnVWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjYwMTkzCWZpbGU6Tm90ZW5iZXJlY2hudW5nLmFwcC50YXIuZ3oJdmVyc2lvbjowLjguMQo4NEFYYjRJd3lUMjV5Q3ptdzQ1WW1hQStwSU04NjBqVGpIbUFVd2ZRc1ZkM3prWXRGUmJhUG0wVHg2UXM1YUpzMnUrbml4NVJ6WXNNbkNXWmxLdEVBQT09Cg==",
+      "url": "https://api.github.com/repos/3xayer/notenberechnung-releases/releases/assets/687806891"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUV1V3bUxWZnVUenNLNmlxUHNmS1Z5TEJCcXAxNHdacUtrRlJ4YTE2ZXhZYTA5N3lEM21lRGorOVlNakFadGlyVDNTL3dXZ2l5WHNtRE9ZSFhnVlJkRVFLbFFxYVYwcVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjYwNzA5CWZpbGU6Tm90ZW5iZXJlY2hudW5nXzAuOC4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjguMQpQOGJ3SzFVbURjQmwwWjc5UUx3cEUwVUE3R0dPV1FKUVlXWkUzam0va0xzYkJDRjVNRG5TOTUyZWlNK0JjeVVMRC9CK1NraVd1U1IvYlJMK2puRjlEZz09Cg==",
+      "url": "https://api.github.com/repos/3xayer/notenberechnung-releases/releases/assets/687806894"
     }
   }
 }
