@@ -29,9 +29,8 @@ Danach führt die App durch die ersten Schritte. Die Anleitung steckt in der App
 
 Die App sucht beim Start selbst nach neuen Versionen und installiert sie auf Wunsch („Update verfügbar“ → „Jetzt installieren“). Was sich geändert hat, steht bei jedem Release und in der App unter „Globale Einstellungen“ → App & Updates → „Änderungsprotokoll“.
 
-- **Für alle freigegeben** (Titel nur mit Version, z.B. „v0.9.0“): getestete Versionen, die jede App bekommt. Die neueste ist mit „Latest“ markiert.
-- **„Pre-release“**: die Beta, die gerade getestet wird. Sie kommt nicht als Update. Bitte die Version unter „Latest“ nehmen.
-- **„· Beta“** im Titel: frühere Testversionen, die nie für alle freigegeben wurden. Ihre Änderungen stecken in der nächsten freigegebenen Version. Bitte nicht installieren.
+- **Für alle freigegeben** (z.B. „v0.9.0“): getestete Versionen, die jede App bekommt. Die neueste ist mit „Latest“ markiert.
+- **„Pre-release“** (z.B. „v0.11.0-beta.2“): die Beta, die gerade getestet wird. Sie kommt nicht als Update. Bitte die Version unter „Latest“ nehmen. Ist sie fertig getestet, erscheint dieselbe Version als „v0.11.0“ für alle.
 
 ## Fehler und Wünsche
 
