@@ -1,15 +1,15 @@
 {
-  "version": "0.10.0",
-  "notes": "Hilfe-KI: Fragen zur Bedienung im Hilfe-Fenster, mit Weiterleitung an den Entwickler.",
-  "pub_date": "2026-11-04T19:46:03.479Z",
+  "version": "0.10.1",
+  "notes": "Hilfe-KI versteht Folgefragen.",
+  "pub_date": "2026-11-12T16:47:00.962Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUV1V3bUxWZnVUemxTczl5K1lwZ1FSNWlpS2U1bk5YNlM2L3p5V21VSE1ubXJLUHJUcFUwZWMwdU5pVlZFSG00ZytiQTJueUVxQ3NobXJ0L3h0OVFCN01SS3JGNWNUQmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODIwNzMxCWZpbGU6Tm90ZW5iZXJlY2hudW5nLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEwLjAKYzFjM3RTUXNMcTRUVTBCQm5LNk03Mm9EVlV4bmVTU3ZKUE1PdEhZOHVRZjdocHpOd3RkNEhpcnk5YU4zdmVuSlV5dndWbDdSZkI1YjVvVU84bnBPQWc9PQo=",
-      "url": "https://api.github.com/repos/3xayer/notenberechnung-releases/releases/assets/710698382"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUV1V3bUxWZnVUem5wdFZ5VitsN0pHZHpOV1JrcUVVOCtETENhMEExakhGbXVpL015RXhVMEV2ak5jRzJqa3VmQTFDWDNHaENxUFFSRFVRaVVMMHEyNVh6U01IRmVlcWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTAxMzEwCWZpbGU6Tm90ZW5iZXJlY2hudW5nLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEwLjEKUXdQdUJBdzZSaXZFaVhScmR0UXIyTUJ1dDJ1MWg1OVp2bDNaL0JWNnVJUzU4aVEwMXlkeWxPaTFYMjNQaUs4MjhLa2haMVJYcGRVdnJ0NzFpQUdPQWc9PQo=",
+      "url": "https://api.github.com/repos/3xayer/notenberechnung-releases/releases/assets/740261740"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUV1V3bUxWZnVUenM2OE1MQUxvQTBNUU0vQXViL0VRcHNYbUhMd1RSN0ROcUNnK0Z6SnBKejZWZzN4VnZtUlVtdGk2N3M3L0taV3NnV0REVzBRYWgxcjN5b1ljN0FkYmd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODIxNDM2CWZpbGU6Tm90ZW5iZXJlY2hudW5nXzAuMTAuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xMC4wCkJlQlRQVUhQaXNncUZxREJtZDN6ZFBYWWRHeExvUUVKZ1BzSjRHWU5FbFA5Y0NEZjZIT3QySERhNFpSMUJDaTkva21LeU4vZmtBanNlbER6NDhMZ0FRPT0K",
-      "url": "https://api.github.com/repos/3xayer/notenberechnung-releases/releases/assets/710698384"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUV1V3bUxWZnVUem40eWlzZ3FrNG1FZFVRYnNtYUQzcW1OVEVNM1RNTkZCc0Z0STU4U09qLzVQVXBhM2FFMUM0T0pKcHFQMlhpdXFUUys3YjRqb3VVNWdHTFJsczFBNkFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTAxOTM2CWZpbGU6Tm90ZW5iZXJlY2hudW5nXzAuMTAuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xMC4xCmRFR0xaNVIwWmp5c1o1TmNXejVFa0lmakk5ZnA4Mk9oS3ZGZ1ZVQ2dha0Vvb0FUekl0T3ZHT1pUNUVHUFhOK1VaRjg3MEgrZkU3UWpYd212N0gzZkN3PT0K",
+      "url": "https://api.github.com/repos/3xayer/notenberechnung-releases/releases/assets/740261751"
     }
   }
 }
